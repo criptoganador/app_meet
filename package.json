@@ -1,0 +1,18 @@
+{
+  "name": "app_meet",
+  "version": "1.0.0",
+  "main": "src/main/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "jhoan lennin gavidia zambrano",
+  "license": "ISC",
+  "description": "esta es una app  de video conferencia",
+  "dependencies": {
+    "@firebasegen/default-connector": "file:dataconnect-generated/js/default-connector",
+    "electron": "^34.0.2",
+    "firebase": "^11.2.0"
+  }
+}

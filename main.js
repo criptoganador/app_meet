@@ -1,0 +1,1 @@
+/**Archivo de entrada (puede redirigir a src/main/main.js) */
